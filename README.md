@@ -3,4 +3,4 @@
 
 사용방법은 개의 사진을 크롤링 하는 예시로 한 동영상을 참고해 주세요!
 
-download_images.py와 js_console.js 파일은 여러분이 사진을 담고싶은 폴더에 저장하세요!
+download_images.py와 js_console.js 파일은 여러분이 사진을 담고싶은 폴더에 저장하고 추가로 images라는 폴더를 만드세요!
